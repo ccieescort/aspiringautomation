@@ -1,7 +1,0 @@
-Namaste
-
-Namaste
-
-Namaste
-
-Namaste
