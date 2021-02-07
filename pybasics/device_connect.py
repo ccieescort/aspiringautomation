@@ -1,5 +1,6 @@
 from netmiko import ConnectHandler
 from getpass import getpass
+
 device1 = {
      "host": "l3swa",
      "username": "cisco",
