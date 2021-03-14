@@ -11,7 +11,7 @@ device1 = {
 device2 = {
      "host": "rtrb",
      "username": "cisco",
-     "password": "123!cisco",
+     "password": "123!Cisco",
      "device_type": "cisco_ios"
           }
 
