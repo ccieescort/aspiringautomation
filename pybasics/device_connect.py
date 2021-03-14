@@ -1,14 +1,14 @@
 from netmiko import ConnectHandler
 
 device1 = {
-     "host": "l3swa",
+     "host": "rtra",
      "username": "cisco",
      "password": "123!Cisco",
      "device_type": "cisco_ios",
           }
 
 device2 = {
-     "host": "rtra",
+     "host": "rtrb",
      "username": "cisco",
      "password": "123!Cisco",
      "device_type": "cisco_ios",
