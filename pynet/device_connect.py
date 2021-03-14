@@ -15,7 +15,7 @@ device2 = {
      "device_type": "cisco_ios"
           }
 
-for device in (device1,device2):
+for device in (device1, device2):
     connect_device = ConnectHandler(**device)
     print(connect_device.find_prompt())
 
